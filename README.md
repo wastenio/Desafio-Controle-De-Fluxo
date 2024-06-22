@@ -21,3 +21,22 @@ Este projeto foi desenvolvido como parte da trilha de Java Básico da Digital In
   - Git (opcional, se você deseja clonar o repositório)
  
     ## Executando Localmente
+  1. Clone o Repositório:
+     git clone https://github.com/seu-usuario/seu-repositorio.git
+
+     Ou faça o download do projeto diretamente do GitHub.
+
+  2. Navegue até o Diretório do Projeto:
+     cd DesafioControleFluxo
+
+  3. Compile o Código:
+     javac Contador.java
+
+  4. Execute o Programa:
+     java Contador
+
+  5. Siga as Instruções no Terminal:
+
+     - Digite o primeiro número quando solicitado.
+     - Digite o segundo número quando solicitado.
+     - O programa realizará a contagem e imprimirá os números conforme o intervalo definido.
