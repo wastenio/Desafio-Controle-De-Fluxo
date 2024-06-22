@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte da trilha de Java Básico da Digital In
  
     ## Executando Localmente
   1. Clone o Repositório:
-     git clone https://github.com/seu-usuario/seu-repositorio.git
+     git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/wastenio/Desafio-Controle-De-Fluxo)
 
      Ou faça o download do projeto diretamente do GitHub.
 
